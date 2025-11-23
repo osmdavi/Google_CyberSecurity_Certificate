@@ -1,1 +1,2 @@
-## This  Folder contains my Incident Report analysis for Course 3 of the Google Cybersecurity Certificate
+## Incident Report analysis 
+This folder contains my incident report analysis for Course 3 of the Coursera Cybersecurity certificate
